@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitish Gope</h1>
-
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=nitishgope04&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
