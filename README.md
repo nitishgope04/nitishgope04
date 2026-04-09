@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Nitish Gope</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitishgope04&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
+
 # 💫 About Me:
 I am Nitish Gope, a results-driven Computer Science undergraduate specializing in data analytics, with hands-on experience in SQL, Power BI, and data visualization. I have developed analytical projects that translate complex data into actionable insights, enabling data-driven decision-making. I am seeking opportunities to leverage my skills to solve real-world business problems and deliver measurable impact.
 
